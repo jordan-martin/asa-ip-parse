@@ -6,7 +6,7 @@ Python script to discover all references to a specific IP address in an ASA conf
 Usage information for asa_ip.py:  
 
 
-     python asa_ip.py <i>arguments</i>
+     python asa_ip.py arguments
 
 
      -s [source configuration file]   ** Required **
@@ -15,7 +15,7 @@ Usage information for asa_ip.py:
      -l [IP Address List File]   ** One IP Address Per Line **
 
 
-     Either <b>-i</b> or <b>-l</b> is required, but only one can be used
+     Either -i or -l is required, but only one can be used
 
 
 
