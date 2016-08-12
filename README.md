@@ -21,3 +21,5 @@ Usage information for asa_ip.py:
 
 <b>Libraries Required:</b>  CiscoConfParse, IPAddress
 
+This script was written using python 2.7 and will not work with python3.  The python3 ported version will be uploaded soon.
+
